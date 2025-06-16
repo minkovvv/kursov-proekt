@@ -1,0 +1,8 @@
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\bin\Debug\ZlatnaVilitsa.exe.config
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\bin\Debug\ZlatnaVilitsa.exe
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\bin\Debug\ZlatnaVilitsa.pdb
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\obj\Debug\ZlatnaVilitsa.csproj.AssemblyReference.cache
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\obj\Debug\ZlatnaVilitsa.csproj.CoreCompileInputs.cache
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\obj\Debug\ZlatnaVilitsa.exe
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\obj\Debug\ZlatnaVilitsa.pdb
+C:\Users\m3min\source\repos\ZlatnaVilitsa\ZlatnaVilitsa\obj\Debug\ZlatnaVilitsa.exe.config
