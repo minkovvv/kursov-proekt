@@ -1,0 +1,8 @@
+C:\Users\m3min\source\repos\apteka\apteka\bin\Debug\apteka.exe.config
+C:\Users\m3min\source\repos\apteka\apteka\bin\Debug\apteka.exe
+C:\Users\m3min\source\repos\apteka\apteka\bin\Debug\apteka.pdb
+C:\Users\m3min\source\repos\apteka\apteka\obj\Debug\apteka.csproj.AssemblyReference.cache
+C:\Users\m3min\source\repos\apteka\apteka\obj\Debug\apteka.csproj.CoreCompileInputs.cache
+C:\Users\m3min\source\repos\apteka\apteka\obj\Debug\apteka.exe
+C:\Users\m3min\source\repos\apteka\apteka\obj\Debug\apteka.pdb
+C:\Users\m3min\source\repos\apteka\apteka\obj\Debug\apteka.exe.config
